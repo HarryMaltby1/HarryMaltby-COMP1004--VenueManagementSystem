@@ -1,0 +1,90 @@
+body 
+{
+	background:#999;
+	font-family: arial;
+	margin: 0;
+	text-align: center;
+
+}
+h2
+{
+	color:#111;
+}
+p
+{
+	background: #666;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	margin: 0;
+}
+header
+{
+	margin: 0;
+}
+footer
+{
+padding: 10px 10px 10px 10px;
+background: black;
+color: white;
+}
+.row
+{
+	background: #777;
+	padding: 10px 10px 20px 10px;
+	float; left;
+	margin: 10px 50px 0 50px;
+}
+.button
+{
+	background: #777;
+	margin: 0 50px 0 50px;
+	padding: 10px 10px 30px 10px;
+	
+
+}
+#Save-info
+{
+	height: 100px;
+	width: 50px;
+}
+.saved
+{
+	background: #777;
+	padding: 0 10px 50% 10px;
+	margin: 0 50px 50px 50px;
+}
+#FN 
+{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	background: #666;
+}
+#LN 
+{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	background: #666;
+}
+#PN 
+{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	background: #666;
+}
+#T 
+{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	background: #666;
+}
+#NOP 
+{
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	background: #666;
+}
